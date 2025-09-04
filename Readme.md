@@ -1,7 +1,9 @@
 # Fraud Detection Model for Financial Transactions
----
+
 ![Alt text](Images/Fraud_detection.jpeg)
----
+
+***
+
 ## About the Dataset
 The dataset contains over 6 million records of financial transactions with the following key features:
 - `step`: Time step of the transaction.
@@ -70,3 +72,4 @@ This project successfully developed a robust machine learning pipeline for fraud
 - Integrate the system with existing financial platforms for continuous monitoring.
 
 ---
+
